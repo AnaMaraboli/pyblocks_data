@@ -12,3 +12,5 @@ nltk
 sweetviz
 openai
 xlsxwriter
+plotly>=5.0.0
+
